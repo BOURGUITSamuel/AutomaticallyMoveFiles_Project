@@ -5,7 +5,7 @@ Ce script permet de trier automatiquement les fichiers dans un dossier en foncti
 Vous pouvez par exemple utiliser ce programme pour trier vos fichiers téléchargés
 
 # Prerequisites
-L'utilisation du programme nécessite l'acquisition d'un système d'exploitation Linux
+Le programme peut être exécuté  sur un système d'exploitation Windows ou Linux
 
 Le programme a été conçu avec le langage Python
 
