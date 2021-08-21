@@ -7,7 +7,7 @@ Vous pouvez par exemple utiliser ce programme pour trier vos fichiers téléchar
 # Prerequisites
 Le programme peut être exécuté  sur un système d'exploitation Windows(en utilisant un IDE) ou Linux
 
-Le programme a été conçu avec le langage Python
+Le programme a été conçu avec le langage Python(version3)
 
 ## Installing & Using
 1- Copiez le fichier dans le répertoire de votre choix
