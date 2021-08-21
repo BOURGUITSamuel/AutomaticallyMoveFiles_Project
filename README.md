@@ -17,7 +17,7 @@ Le programme a été conçu avec le langage Python
 3- Vous pouvez appliquer vos propres paramètres en modifiant le script
 
 ## Running the tests
-Le programme a été conçu dans Un environnement de développement intégré(IDE) sur l'OS Windows 10 64Bits.
+Le programme a été conçu dans un environnement de développement intégré(IDE) sur l'OS Windows 10 64Bits.
 
 Le programme a été testé sur l'OS Debian 64bits.
 
