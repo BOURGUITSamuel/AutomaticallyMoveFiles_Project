@@ -1,20 +1,20 @@
 # AutomaticallyMoveFiles.py
-Ce script permet de trier automatiquement les fichiers dans un dossier en fonction du type et de l'extension 
+Ce script permet de trier automatiquement les fichiers dans un dossier en fonction du type et de l'extension.
 
 ## Getting Started
-Vous pouvez par exemple utiliser ce programme pour trier vos fichiers téléchargés
+Vous pouvez par exemple utiliser ce programme pour trier vos fichiers téléchargés.
 
 # Prerequisites
-Le programme peut être exécuté  sur un système d'exploitation Windows(en utilisant un IDE) ou Linux
+Le programme peut être exécuté  sur un système d'exploitation Windows(en utilisant un IDE ou la version windows de python) ou Linux.
 
-Le programme a été conçu avec le langage Python(version3)
+Le programme a été conçu avec le langage Python(version3).
 
 ## Installing & Using
-1- Copiez le fichier dans le répertoire de votre choix
+1- Copiez le fichier dans le répertoire de votre choix.
 
 2- Lancez le programme avec la commande suivante : python AutomaticallyMoveFiles.py
 
-3- Vous pouvez appliquer vos propres paramètres en modifiant le script
+3- Vous pouvez appliquer vos propres paramètres en modifiant le script.
 
 ## Running the tests
 Le programme a été conçu dans un environnement de développement intégré(IDE) sur l'OS Windows 10 64Bits.
