@@ -24,6 +24,7 @@ ScriptsLocation = 'D:/Scripts'
 
 
 def automovefile():
+    """Automatically moving files by extension into a specific folder"""
     for file in filename:
         if os.path.splitext(file)[1] not in documents:
             pass
